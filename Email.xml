@@ -1,0 +1,5 @@
+<emailprop>
+		<protocol>smtp</protocol>
+		<server>smtp.geopx.com.br</server>
+		<port>587</port>
+</emailprop>
